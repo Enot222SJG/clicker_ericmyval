@@ -56,8 +56,8 @@ def on_mouse_down(pos, button):
 ## 📂 **Установка и запуск**  
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourname/eric-clicker.git
-cd eric-clicker
+git clone https://github.com/yourname/eric-clicker.git](https://github.com/Enot222SJG/clicker_ericmyval.git
+cd clicker_ericmyval
 ```
 
 2. Установите зависимости:
